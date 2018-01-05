@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "143357004815",
+    "firebase_url": "https://remote-config-fdd06.firebaseio.com",
+    "project_id": "remote-config-fdd06",
+    "storage_bucket": "remote-config-fdd06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143357004815:android:f2a3c1a5b8ede47a",
+        "android_client_info": {
+          "package_name": "br.com.andreguedes.firebaseremoteconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143357004815-pn0209k9v1iqemotf6hgtbs85nucq0d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfvlTmWDA5owmEqOEHWnimqEAwdvhIZsM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

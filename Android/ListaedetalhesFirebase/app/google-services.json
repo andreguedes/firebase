@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "656793649698",
+    "firebase_url": "https://listas-e-detalhes.firebaseio.com",
+    "project_id": "listas-e-detalhes",
+    "storage_bucket": "listas-e-detalhes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656793649698:android:b907658e1c68f8c4",
+        "android_client_info": {
+          "package_name": "br.com.andreguedes.listaedetalhes_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656793649698-ef615gi8ldn7esqome5ml5ed6ji5fe0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMJhpV8rB48g4a-o6phtD7WLirdKb5c3E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
