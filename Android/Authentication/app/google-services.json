@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "119136885538",
+    "firebase_url": "https://authentication-b2321.firebaseio.com",
+    "project_id": "authentication-b2321",
+    "storage_bucket": "authentication-b2321.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119136885538:android:73442dc5dfa983fb",
+        "android_client_info": {
+          "package_name": "br.com.andreguedes.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119136885538-kpa330ib6568uh0v4jgf4cd0gltfa5sv.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "119136885538-kpa330ib6568uh0v4jgf4cd0gltfa5sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO1hnXFjSm29HhINwOCUqmSK4fpkW_EQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
